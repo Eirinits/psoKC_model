@@ -1,4 +1,4 @@
-# cPLA2_model
+# Psoriatic Keratinocyte model
 
 This repository contains ipynb files and psoriatic keratinocyte model-related files as described in paper .....
 
