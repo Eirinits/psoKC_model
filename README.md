@@ -7,8 +7,6 @@ This repository contains ipynb files and psoriatic keratinocyte model-related fi
 ### With binder
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Eirinits/psoKC_model/HEAD)
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/Eirinits/psoKC_model/HEAD
  
 ### With docker
 
