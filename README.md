@@ -1,6 +1,6 @@
 # Psoriatic Keratinocyte (psoKC) model
 
-This repository contains ipynb files and psoriatic keratinocyte model-related files as described in paper .....
+This repository contains ipynb files and psoriatic keratinocyte model-related files as described in paper [_"Logical and experimental modeling of cytokine and eicosanoid signaling in psoriatic keratinocyte"_](https://www.biorxiv.org/content/10.1101/2021.06.07.447313v2)
 
 ## How to run this notebook?
 
