@@ -4,6 +4,14 @@ This repository contains ipynb files and psoriatic keratinocyte model-related fi
 
 ## How to run this notebook?
 
+### With binder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Eirinits/psoKC_model/HEAD)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/Eirinits/psoKC_model/HEAD
+ 
+### With docker
+
 1. Install the [colomoto docker image](https://github.com/colomoto/colomoto-docker). 
 The model presented in the paper was tested with the version ```2020-01-24```.
 2. Install [jupyter notebook](http://jupyter.org/).
