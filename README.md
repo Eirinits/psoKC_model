@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5524437.svg)](https://doi.org/10.5281/zenodo.5524437)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5549353.svg)](https://doi.org/10.5281/zenodo.5549353)
 
 # Psoriatic Keratinocyte (psoKC) model
 
