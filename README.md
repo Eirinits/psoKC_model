@@ -18,3 +18,5 @@ The model presented in the paper was tested with the version ```2020-01-24```.
 3. Clone the repository: ```https://github.com/Eirinits/psoKC_model.git```. 
 4. Go to the project repository and launch the notebook: ```colomoto-docker --bind .```
 5. The notebook will be available in your web browser at ```http://localhost:8888/```
+
+NB! As of Oct 2024, please use the latest version as the original notebook might show some issues due to syntax updates.
